@@ -1,5 +1,5 @@
-# Interactive Super Store Sales Analysis Dashboard(Power BI-Project)
-📊 Recently Learned: Interactive Super Store Sales Dashboard.
+# 📊 Super Store Sales Analysis Dashboard(Power BI-Project)
+Recently Learned: Interactive Super Store Sales Analysis Dashboard.
 
 Used DAX, data modeling, KPIs, filters, and interactive visualizations to identify business trends and insights.
 
@@ -27,21 +27,21 @@ Through this dashboard, I learned how to analyze sales performance using importa
 
 # 🔑 Key Insights
 
-Total Sales: Generated approximately $2M in total sales.
+🔹 Total Sales: Generated approximately $2M in total sales.
 
-Total Profit: Achieved around $286.40K in profit.
+🔹 Total Profit: Achieved around $286.40K in profit.
 
-Total Orders: Recorded 509 total orders.
+🔹 Total Orders: Recorded 509 total orders.
 
-Top Region: West contributed the highest sales share.
+🔹 Top Region: West contributed the highest sales share.
 
-Top Category: Technology was the best-performing category.
+🔹 Top Category: Technology was the best-performing category.
 
-Top Sub-Categories: Phones and Chairs were among the top sellers.
+🔹 Top Sub-Categories: Phones and Chairs were among the top sellers.
 
-Top Segment: Consumer generated the highest sales.
+🔹 Top Segment: Consumer generated the highest sales.
 
-Sales Trend: Sales showed an overall upward trend year-over-year.
+🔹 Sales Trend: Sales showed an overall upward trend year-over-year.
 
 Shipping: Standard Class was the most-used shipping mode.
 <img width="1427" height="755" alt="image" src="https://github.com/user-attachments/assets/c9e48072-969c-4c6a-adc2-02287c9fd772" />
