@@ -5,8 +5,8 @@ Used DAX, data modeling, KPIs, filters, and interactive visualizations to identi
 
 I’m excited to share that I recently learned how to design and analyze an interactive Super Store Sales Dashboard using data visualization and business intelligence techniques.
 
-#  📌 Through this dashboard, I learned how to analyze sales performance using important KPIs and charts, including:
-
+Through this dashboard, I learned how to analyze sales performance using important KPIs and charts, including:
+# 📌 KPI's:
 🔹 Total Sales – $2M
 
 🔹 Total Profit – $286.40K
