@@ -1,5 +1,6 @@
+# Power BI-Project
 # 📊 Super Store Sales Analysis Dashboard
-# (Power BI-Project)
+
 Recently Learned: Interactive Super Store Sales Analysis Dashboard.
 
 Developed an interactive Power BI Dashboard to analyze Super Store Sales performance.
