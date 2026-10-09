@@ -2,7 +2,6 @@
 # 📊 Super Store Sales Analysis Dashboard
 
 Recently Learned: Interactive Super Store Sales Analysis Dashboard.
-
 Developed an interactive Power BI Dashboard to analyze Super Store Sales performance.
 
 Used DAX, data modeling, KPIs, filters, and interactive visualizations to identify business trends and insights.
